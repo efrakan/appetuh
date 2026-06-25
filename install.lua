@@ -12,7 +12,7 @@
 -- Installed programs go in /bin and are added to your shell PATH (live + on
 -- reboot), so you can run them from any directory by name (apt, ccc, factory).
 
-local BASE_URL = "https://raw.githubusercontent.com/USER/REPO/main/"
+local BASE_URL = "https://raw.githubusercontent.com/efrakan/appetuh/main/"
 
 -- Fallback list, used only if manifest.lua can't be fetched from BASE_URL.
 -- remote path (relative to BASE_URL)  ->  local install path
