@@ -1,0 +1,5 @@
+print("====================================")
+print("  Welcome! Installed via apt.")
+print("====================================")
+print("Running its dependency, 'hello':")
+shell.run("/bin/hello.lua")
